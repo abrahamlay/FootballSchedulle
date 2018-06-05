@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FootballSchedule</string>
+    <string name="upcoming_fixture">Upcoming Fixture</string>
+    <string name="latest_result">Latest Result</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vs">VS</string>
+    <string name="score">score</string>
+    <string name="formation">formation</string>
+    <string name="goal">goal</string>
+    <string name="goalkeeper">goalkeeper</string>
+    <string name="defender">defender</string>
+    <string name="midfielder">midfielder</string>
+    <string name="forward">forward</string>
+    <string name="yellow_card">yellow card</string>
+    <string name="red_card">red card</string>
+    <string name="shots">shots</string>
+    <string name="spectators">spectators</string>
+    <string name="date">date</string>
+    <string name="favorite_match">Favorite Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="refresh">refresh</string>
+</resources>

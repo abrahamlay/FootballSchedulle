@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_past"
+        android:enabled="true"
+        android:icon="@drawable/ic_past_event"
+        android:title="@string/latest_result"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_next"
+        android:enabled="true"
+        android:icon="@drawable/ic_next_event"
+        android:title="@string/upcoming_fixture"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_menu_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_navi"
+        android:title="@string/favorite_match"
+        app:showAsAction="ifRoom" />
+
+</menu>
